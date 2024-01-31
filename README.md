@@ -63,27 +63,51 @@ now Ali will tell you a little about him...
 
 ## Member 2: Ali El Maniary
 
-### Hello world,
+### Hello everyone
+This serves as a testing repository for Homework 1 in the Multimedia Authoring (MMED-1054) course during the winter semester at Fanshawe College Downtown, under the guidance of Professor MARCO DE LUCA
 
-<!-- start by introducing yourself a little -->
+### APPRECIATING EVREYBODY ⚡️
 
-### My background
+Its my first time on github and also the IDP3 Program, so im hoping to be good and enhancing my skills. Im Ali El maniary and i have nickname that my friends call me with is (Leo). furthermore, i born in france and lived there for 9 years then i moved to morocco for 10 years because of my moroccan family and here am i 1 year ago in canada so im 20 years old. Also i lived in paris. FR (the romantic city) casablanca. MA (the economy city and the biggest).
 
-<!-- write here your background -->
+Here we go to get familiar with me heres a picture of me.
 
-### My hobbies
+![Ali,myprofilepicture](/images/Ali_image_1.jpg)
 
-<!-- write here your hobbies -->
+### My background 🔥
 
-### My story
 
-<!-- write here your story -->
 
-----
+I have been a soccer player a great player in the field and because of my idole Ronaldo that i love i used to play with a famous moroccan club and i played four different position in offense (stricker/wingers/ amf),but here is the worst i got knee injury and i wasnt able to play for more than 8 month and then my family end my career as soccer player,in an other way i started to kick boxing new career new sport i was happy with it im a two years professional kick boxer with 12 win - 3 loose - 2 k.o but because of my faces scratch my mom end my career for the second time so now here am i looking for new thing and i think IDP3 is the best  choice for me 
 
-If you want to use IMAGES, it's like this:
-![ALT TEXT](insert image relative path)
+and here is the picture of my idole and the best player in the world and top scorer of the whole planet 
 
-If you want to use LINKS, it's like this: 
-[LINK TEXT](insert URL)
+![Ali,myprofilepicture](/images/Ali_image_3.jpg)
+ 
 
+ Also i have a dog back home is A 
+ ### Belgian Malinois 🐕
+ his a smart dog and i adopt at an age of 31 days and i took care of him till now hes 3 yeas old. i love him and i miss him. his my little son 
+
+ here is a picture of him i always call him nizar but his name is cesar
+
+![Ali,myprofilepicture](/images/Ali_image_2.jpg)
+
+
+
+![Ali,myprofilepicture](/images/Ali_image_4.jpg)
+
+
+### My hobbies ✨
+
+I Love traveling as i travel a lot i went to spain/norway/france/morocco/canada and even canada i see a lot of city as hamilton/vancouver/windsor/montreal/quebec/les trios riviers/niagra falls/brampton/toronto/missisau/halifax. also i like supercars i had a cls63s amg/ also my dad having a audi RSQ8 so i was take always a ride and go as fast as possible in the road and now im planing to go with motocycle in the upcoming month im thinking on Kawasaki ninja 
+
+here to get u familiar of how my car looking 🥶
+
+![Ali,myprofilepicture](/images/Ali_image_5.PNG)
+
+
+
+![Ali,myprofilepicture](/images/Ali_image_6.jpg)
+
+### thats all thank u guys for ur patient.
